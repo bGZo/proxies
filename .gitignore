@@ -1,0 +1,10 @@
+demo.yml
+.env.ps1
+
+# data
+data/cache.db
+data/config.yaml
+data/Country.mmdb
+data/core.zip
+data/core.exe
+
